@@ -1,0 +1,30 @@
+p {
+    color: blue;
+}
+
+h1 {
+  color:#FF0000;
+}
+
+h2 {
+  color:#d35400;
+}
+
+* {
+    margin: 5;
+    padding: 5;
+}
+
+.section-content {
+    color: gray;
+    font-size: 14px;
+    font-style: italic;
+}
+
+#section2 {
+    border: 3px solid red;
+}
+
+body {
+    background-color: #D6EAF8;
+}
