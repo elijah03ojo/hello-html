@@ -1,0 +1,29 @@
+p {
+    color: blue;
+}
+
+h1 {
+  color:#FF0000;
+}
+
+h2 {
+  color:#d35400;
+}
+
+body {
+    background-color: #D6EAF8;
+}
+
+.section-content {
+    color: gray;
+    font-size: 14px;
+    font-style: italic;
+}
+
+#section2 {
+    border: 1px solid red;
+}
+
+body {
+    background-color: #D6EAF8;
+}
