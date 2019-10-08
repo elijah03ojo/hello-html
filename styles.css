@@ -28,3 +28,24 @@ h2 {
 body {
     background-color: #D6EAF8;
 }
+
+a[href="https://www.ucvts.tec.nj.us"] {
+    color: blue;
+}
+
+a[href="https://www.ucvts.tec.nj.us/Page/471"] {
+    color: blue;
+}
+
+div p.first {
+    font-weight: bold;
+}
+
+/* mouse over link */
+ a:hover {
+  color: #58D68D;
+}
+
+body > h1 {
+  background-color: #D5F5E3;
+}
